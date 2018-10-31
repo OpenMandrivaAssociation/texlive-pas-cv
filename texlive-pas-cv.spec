@@ -6,7 +6,7 @@
 # catalog-version 2.01
 Name:		texlive-pas-cv
 Version:	2.01
-Release:	9
+Release:	10
 Summary:	Flexible typesetting of Curricula Vitae
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pas-cv
