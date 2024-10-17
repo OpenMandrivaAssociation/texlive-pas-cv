@@ -3,7 +3,7 @@ Version:	32263
 Release:	2
 Summary:	Flexible typesetting of Curricula Vitae
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pas-cv
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/pas-cv
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pas-cv.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pas-cv.doc.r%{version}.tar.xz
